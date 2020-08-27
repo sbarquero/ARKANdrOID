@@ -1,0 +1,16 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <!-- <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar"> -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+    <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <!-- Quito el título de la ventana -->
+        <!-- <item name="android:windowNoTitle">true</item> -->
+        <!-- Aplico el modo fullscreen -->
+        <!-- <item name="android:windowFullscreen">true</item> -->
+    </style>
+
+</resources>

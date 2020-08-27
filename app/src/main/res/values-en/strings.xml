@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ARK-Android</string>
+    <string name="bloques">Blocks</string>
+    <string name="bola">Ball</string>
+    <string name="configuracion">Settings</string>
+    <string name="configurar">Settings</string>
+    <string name="duracion_minima">Wrong minimum duration</string>
+    <string name="guardar">Save</string>
+    <string name="jugar">Play Game</string>
+    <string name="mensaje_salir">Are you sure to exit?</string>
+    <string name="no">No</string>
+    <string name="num_alto">Heigh number</string>
+    <string name="num_ancho">Width numbre</string>
+    <string name="restablecer">Restore</string>
+    <string name="salir">Exit</string>
+    <string name="si">Yes</string>
+    <string name="tamanio">% Size (10 - 30)</string>
+    <string name="tamanio_vaus_error">Wrong Vaus size</string>
+    <string name="tiempo_agotado">Time out</string>
+    <string name="velocidad">Speed (1 - 50)</string>
+    <string name="vaus">Vaus</string>
+    <string name="tiempo_partida">Game time (> 10 sec)</string>
+    <string name="num_bloques_alto_error">Wrong blocks number per height</string>
+    <string name="num_bloques_ancho_error">Wrong blocks number per width</string>
+    <string name="velocidad_bola">Ball speed (1 - 50)</string>
+    <string name="velocidad_bola_error">Wrong ball speed</string>
+    <string name="velocidad_vaus_error">Wrong Vaus speed</string>
+    <string name="tiempo">Time</string>
+    <string name="puntuacion">Score</string>
+    <string name="has_ganado">Congratulations you  win!</string>
+</resources>

@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">ARK-Android</string>
+    <string name="jugar">Jugar Partida</string>
+    <string name="configurar">Configurar</string>
+    <string name="salir">Salir</string>
+    <string name="mensaje_salir">¿Seguro que quieres salir?</string>
+    <string name="si">Sí</string>
+    <string name="no">No</string>
+    <string name="configuracion">Configuración</string>
+    <string name="bola">Bola</string>
+    <string name="velocidad_bola">Velocidad bola (1 - 50)</string>
+    <string name="bloques">Bloques</string>
+    <string name="num_ancho">Número ancho (1 - 10)</string>
+    <string name="num_alto">Número alto (1 - 10)</string>
+    <string name="vaus">Vaus</string>
+    <string name="velocidad">Velocidad (1 - 50)</string>
+    <string name="tamanio">% Tamaño (10 - 30)</string>
+    <string name="restablecer">Restablecer</string>
+    <string name="guardar">Guardar</string>
+    <string name="tiempo_partida">Tiempo partida (> 10 seg)</string>
+    <string name="tiempo_agotado">Tiempo agotado</string>
+    <string name="duracion_minima">Duración mínima errónea</string>
+    <string name="velocidad_bola_error">Velocidad de bola errónea</string>
+    <string name="num_bloques_ancho_error">Número de bloques incorrecto por ancho</string>
+    <string name="num_bloques_alto_error">Número de bloques incorrecto por altura</string>
+    <string name="velocidad_vaus_error">Velocidad de Vaus errónea</string>
+    <string name="tamanio_vaus_error">Tamaño de Vaus erróneo</string>
+    <string name="puntuacion">Puntuación</string>
+    <string name="tiempo">Tiempo</string>
+    <string name="has_ganado">Enhorabuena has ganado!</string>
+</resources>
